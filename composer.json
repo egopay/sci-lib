@@ -1,5 +1,6 @@
 {
     "name": "egopay/sci",
+    "description": "PHP lib for egopay.com SCI",
     "autoload": {
         "classmap": ["src"]
     }
