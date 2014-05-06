@@ -3,5 +3,11 @@
     "description": "PHP lib for egopay.com SCI",
     "autoload": {
         "classmap": ["src"]
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.4-dev"
+        }
     }
 }
