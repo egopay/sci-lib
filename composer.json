@@ -1,0 +1,6 @@
+{
+    "name": "egopay/sci",
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
